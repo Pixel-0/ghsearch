@@ -1,27 +1,43 @@
-# Ghsearch
+# ghSearch
+
+#### By Sara Munini
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
 
-## Development server
+## BDD
+This application enables the the user to input their favorite user's account name on github and search for it.
+- Type in the username.
+- The user automatically appears if it's correct.
+- Allows them to access their repositories too.
+- Allows users to view the number of repositories, number of people they follow and following them back.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Setup/Installation Requirements
+- Open your terminal
+- initialize githubgit clone https://github.com/Pixel-0/githubSearch.git
+- cd githubSearch
+- open folder in prefered IDE
+- open terminal
+- run "ng serve -o" to open the application in your localhost
 
-## Code scaffolding
+## Technologies Published
+- HTML
+- CSS
+- Bootstrap
+- Javascrpt
+- Angular js
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## For help
+For any user support, contact saramunini11@gmail.com
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## License
+Copyright (c) {2019} Sara Munini Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
