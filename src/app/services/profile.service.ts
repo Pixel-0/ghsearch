@@ -10,7 +10,6 @@ import { Repo } from '../repo';
 export class ProfileService {
   user:User;
   repo:Repo;
-  // repositories=Repos;
 
   private username: string;
   private clientid = '0d2a747596660833bc28';
