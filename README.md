@@ -13,7 +13,7 @@ This application enables the the user to input their favorite user's account nam
 
 ## Setup/Installation Requirements
 - Open your terminal
-- initialize githubgit clone https://github.com/Pixel-0/githubSearch.git
+- initialize github, git clone https://github.com/Pixel-0/githubSearch.git
 - cd githubSearch
 - open folder in prefered IDE
 - open terminal
