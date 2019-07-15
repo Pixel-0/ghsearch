@@ -1,13 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
-// // @NgModule ({
-// declarations: [],
-// imports: [
-//   CommonModule
-// ]
-// })
-
 import {RouterModule,Routes} from "@angular/router"
 // import {LandComponent} from "../home/home.component";
 // import {UserComponent} from "../profile/profile.component"
