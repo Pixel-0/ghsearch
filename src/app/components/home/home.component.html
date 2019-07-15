@@ -17,7 +17,7 @@
 <div *ngIf="profile">
     <div class="heading">
       {{profile.name}} <small>({{profile.login}})</small><br>
-      <span *ngIf="profile.company">Works at {{profile.company | uppercase }}</span><br>
+      <span *ngIf="profile.company">Works at: {{profile.company | uppercase }}</span><br>
       {{profile.location | uppercase }}
     </div>
     <div class="all">
