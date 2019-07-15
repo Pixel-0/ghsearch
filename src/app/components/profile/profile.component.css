@@ -1,0 +1,71 @@
+img {
+  border-radius: 15%;
+  height: 300px;
+  width: 300px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 1%;
+}
+
+.jumbotron {
+  opacity: 0.8;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 2%;
+  
+}
+
+.search-form {
+  padding: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.block {
+  display: inline-block;
+  margin: 50%;
+}
+
+.heading {
+  margin: 2%;
+}
+
+.fol {
+  margin: 5%;
+}
+
+.fol span {
+  border: 2px solid black;
+  margin: 2%;
+  padding: 1%;
+  font-size: 1em;
+  color: #fff;
+}
+
+.all>.rep {
+  border: 0.5px solid black;
+  border-radius: 10px;
+  padding: 2%;
+  margin: 0.4%;
+}
+
+#repos {
+  max-width:500px;
+  max-height: 520px;
+  overflow-y:scroll;
+  -webkit-overflow-scrolling: touch;
+  color: #fff;
+}
+
+a {
+  color: #fff;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 1em;
+}
+
+a:hover{
+  color:black;
+  font-size:30px;
+}
